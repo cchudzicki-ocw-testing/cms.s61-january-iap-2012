@@ -50,7 +50,7 @@ READINGS
 _Double Indemnity_
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link 5dba3a07-2ca0-084e-f83f-f5a44b6cb972 "PDF" >}})
+({{% resource_link 5dba3a07-2ca0-084e-f83f-f5a44b6cb972 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -98,7 +98,7 @@ Narrative and Visual Complexities in Early Noir / Comparing Our First Two Films
 _The Woman in the Window_
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link c76a92f3-ac65-6770-a418-3b47662fb525 "PDF" >}})
+({{% resource_link c76a92f3-ac65-6770-a418-3b47662fb525 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -190,7 +190,7 @@ Watch: _The Set-Up_ or _The Asphalt Jungle_ on your own
 _Where the Sidewalk Ends_
 {{< tdclose >}}
 {{< tdopen >}}
-({{< resource_link a2c3525b-b81d-ad45-c325-fd6462624fe3 "PDF" >}})
+({{% resource_link a2c3525b-b81d-ad45-c325-fd6462624fe3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
