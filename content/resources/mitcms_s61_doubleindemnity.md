@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: b64146a9-74c7-2335-0836-97999e16ccbe
 resourcetype: Document
 title: MITCMS_S61_doubleindemnity.pdf
 uid: 5dba3a07-2ca0-084e-f83f-f5a44b6cb972

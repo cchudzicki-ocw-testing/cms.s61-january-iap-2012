@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: b64146a9-74c7-2335-0836-97999e16ccbe
 resourcetype: Document
 title: MITCMS_S61_woman_in_window.pdf
 uid: c76a92f3-ac65-6770-a418-3b47662fb525

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: b64146a9-74c7-2335-0836-97999e16ccbe
 resourcetype: Document
 title: Where the Sidewalk Ends
 uid: a2c3525b-b81d-ad45-c325-fd6462624fe3
