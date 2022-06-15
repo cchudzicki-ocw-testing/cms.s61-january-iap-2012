@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The page contains both a reading list and a list of films to be viewed
+  for the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
