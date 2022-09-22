@@ -14,6 +14,7 @@ image_metadata:
   image-alt: A black and white photo of an obscured woman on the ground (looking as
     though she is dead).
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: cms-s61iap12-th.jpg
